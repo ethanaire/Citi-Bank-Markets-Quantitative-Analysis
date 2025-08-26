@@ -5,13 +5,18 @@ This repository stores working files for the **_Citi Bank Markets Quantitative A
 ### Project Briefing 
 
 **Your role:**
+
 - You are a quantitative analyst intern at Citi, joining the bustling Markets division for a summer internship.
+  
 - As part of the Markets Quant team, you'll work alongside seasoned professionals, each playing a crucial role in analyzing and navigating financial markets.
+  
 - Your primary role is to assist the team in quantitative analysis tasks, applying your skills and learning from experienced mentors to gain valuable insights into the world of financial markets.
 
 **Project goals:**
 - Your goal is to actively contribute to the team's projects by completing tasks that range from reviewing financial math fundamentals to pricing commodities, hedging securities, and managing risk.
+
 - Through these tasks, you'll deepen your understanding of quantitative analysis techniques and their applications in real-world scenarios within Citi's Markets division.
+
 - By the end of the program, you will have developed essential skills and knowledge that will prepare you for a successful career in quantitative analysis within the financial industry.
 
 ## Task 1: Financial math fundamentals and team structure
@@ -39,7 +44,9 @@ When structuring a security linked to coffee prices, such as a commodity-linked 
 To manage the risk associated with coffee commodity investments, I would employ several statistical methods:
 
 - **Value at Risk (VaR):** Calculate the maximum expected loss over a given period with a certain confidence level. This involves using historical price data and statistical measures of volatility.
+
 - **Monte Carlo Simulation:** Run numerous simulations to model the probability distribution of future coffee prices and assess potential losses under different scenarios.
+
 - **GARCH Models:** Use these models to analyze and forecast volatility, helping to understand and mitigate the impact of price fluctuations on the portfolio.
   
 By applying these mathematical techniques, I can effectively price futures contracts, design structured securities, and manage risks, ensuring a robust and well-informed approach to handling coffee commodities.
@@ -49,11 +56,15 @@ By applying these mathematical techniques, I can effectively price futures contr
 Factors Influencing the Pricing of Futures Contracts:
 - **Supply and Demand Dynamics:**
   - Supply Factors: Production levels, agricultural yields, and inventory levels.
+
   - Demand Factors: Global consumption trends, consumer preferences, and economic conditions.
+
 - **Weather Patterns:**
   - Adverse weather conditions like droughts, frosts, and excessive rainfall can significantly impact production and prices of goods.
+
 - **Geopolitical Factors:**
   - Political stability, trade policies, and tariffs in major producing countries can influence prices.
+
 - **Macroeconomic Indicators:**
   - Interest rates, inflation, and currency exchange rates affect commodity prices.
 
