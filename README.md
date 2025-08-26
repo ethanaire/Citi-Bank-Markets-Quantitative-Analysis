@@ -43,3 +43,27 @@ To manage the risk associated with coffee commodity investments, I would employ 
 - **GARCH Models:** Use these models to analyze and forecast volatility, helping to understand and mitigate the impact of price fluctuations on the portfolio.
   
 By applying these mathematical techniques, I can effectively price futures contracts, design structured securities, and manage risks, ensuring a robust and well-informed approach to handling coffee commodities.
+
+## Task 2: Pricing commodities – coffee
+
+Factors Influencing the Pricing of Futures Contracts:
+- **Supply and Demand Dynamics:**
+  - Supply Factors: Production levels, agricultural yields, and inventory levels.
+  - Demand Factors: Global consumption trends, consumer preferences, and economic conditions.
+- **Weather Patterns:**
+  - Adverse weather conditions like droughts, frosts, and excessive rainfall can significantly impact production and prices of goods.
+- **Geopolitical Factors:**
+  - Political stability, trade policies, and tariffs in major producing countries can influence prices.
+- **Macroeconomic Indicators:**
+  - Interest rates, inflation, and currency exchange rates affect commodity prices.
+
+**Comprehensive Analysis:**
+
+By understanding these factors and their potential impacts, you can better anticipate price movements and manage risk. Incorporate historical data, economic indicators, and geopolitical risk assessments into your quantitative models to provide a comprehensive analysis of futures prices. This approach will enable you to make more informed decisions and develop robust strategies for managing commodity investments.
+
+Techniques for Pricing Commodity Derivatives/Futures in Financial Markets:
+- **Linear Regression** is a fundamental technique used to predict the relationship between a dependent variable and one or more independent variables. It plays a crucial role in market trend analysis and forecasting.
+
+- **Black-Scholes Model** is instrumental in option pricing, taking into account factors such as the underlying asset's volatility, the strike price, and the time to maturity. This model is essential for managing risk and valuing options accurately.
+
+- **Monte Carlo Simulations** are utilized to assess the probability of various outcomes in financial processes. By conducting numerous simulations, we can estimate the potential range and likelihood of different price scenarios, which is critical for derivative pricing and risk management.
