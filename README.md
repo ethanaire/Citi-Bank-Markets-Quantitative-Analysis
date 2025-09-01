@@ -78,3 +78,17 @@ Techniques for Pricing Commodity Derivatives/Futures in Financial Markets:
 - **Black-Scholes Model** is instrumental in option pricing, taking into account factors such as the underlying asset's volatility, the strike price, and the time to maturity. This model is essential for managing risk and valuing options accurately.
 
 - **Monte Carlo Simulations** are utilized to assess the probability of various outcomes in financial processes. By conducting numerous simulations, we can estimate the potential range and likelihood of different price scenarios, which is critical for derivative pricing and risk management.
+
+## Task 3: Hedging and structuring securities
+
+Strategies for Hedging Financial Risks Using Derivative Instruments: 
+
+Hedging financial risks is a critical aspect of managing uncertainties in the financial markets. Derivative instruments play a vital role in hedging strategies, offering opportunities to mitigate risks associated with price fluctuations, interest rate changes, currency fluctuations, and more. Below are key strategies and their specific application to pricing coffee options contracts: 
+1. Hedging with Options Contracts.
+2. Options Strategies for Hedging.
+3. Hedging with Swaps.
+4. Risk Management Considerations.
+
+Techniques for Structuring Securities: 
+1. Commodity-Linked Bonds.
+2. 
