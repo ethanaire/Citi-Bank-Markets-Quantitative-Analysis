@@ -81,7 +81,7 @@ Techniques for Pricing Commodity Derivatives/Futures in Financial Markets:
 
 ## Task 3: Hedging and structuring securities
 
-Strategies for Hedging Financial Risks Using Derivative Instruments: 
+**Strategies for Hedging Financial Risks Using Derivative Instruments**: 
 
 Hedging financial risks is a critical aspect of managing uncertainties in the financial markets. Derivative instruments play a vital role in hedging strategies, offering opportunities to mitigate risks associated with price fluctuations, interest rate changes, currency fluctuations, and more. Below are key strategies and their specific application to pricing coffee options contracts: 
 1. Hedging with Options Contracts.
@@ -89,6 +89,17 @@ Hedging financial risks is a critical aspect of managing uncertainties in the fi
 3. Hedging with Swaps.
 4. Risk Management Considerations.
 
-Techniques for Structuring Securities: 
+**Techniques for Structuring Securities**: 
 1. Commodity-Linked Bonds.
-2. 
+    - Definition: Bonds that pay returns based on the price of a commodity, such as coffee.
+  
+2. Exchange-Traded Funds (ETFs)
+    - Definition: Investment funds traded on stock exchanges, holding assets like stocks, commodities or bonds.
+
+3. Structured Notes
+    - Definition: Debt securities with returns linked to the performance of a commodity index or individual commodity prices.
+  
+4. Digital Options
+    - Definition: Options that pay a fixed amount if the underlying asset's price meets certain conditions at expiration.
+  
+
