@@ -102,4 +102,20 @@ Hedging financial risks is a critical aspect of managing uncertainties in the fi
 4. Digital Options
     - Definition: Options that pay a fixed amount if the underlying asset's price meets certain conditions at expiration.
   
+## Task 4: Managing risk across market trade units
 
+**Understanding risk**: Risk in financial markets is the uncertainty of returns and the possibility of financial loss. It includes different factors such as market volatility, credit risk, liquidity risk, and operational risk.
+
+**Types of risk**:
+- Market risk
+- Credit risk
+- Liquidity risk
+- Operational risk
+
+**Risk management process**: 
+- Identification
+- Measurement
+- Mitigation
+- Monitoring and control
+  
+**Tools and techniques**: Risk management employs a range of tools and techniques, including Value at Risk (VaR), stress testing, Monte Carlo simulation, and derivative instruments such as options, futures, and swaps.
