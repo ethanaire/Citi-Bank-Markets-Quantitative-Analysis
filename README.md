@@ -118,4 +118,25 @@ Hedging financial risks is a critical aspect of managing uncertainties in the fi
 - Mitigation
 - Monitoring and control
   
-**Tools and techniques**: Risk management employs a range of tools and techniques, including Value at Risk (VaR), stress testing, Monte Carlo simulation, and derivative instruments such as options, futures, and swaps.
+**Tools and techniques**: 
+
+- **Value at Risk (VaR)**: VaR is a widely used measure for quantifying the possible loss in value of a portfolio over a defined time period and at a given confidence level. It gives an estimation of the maximum loss that a portfolio could suffer under normal market conditions.
+
+- **Historical simulation**: This approach involves using historical market data to simulate potential future scenarios and estimate the potential losses that a portfolio could incur. By analyzing past market movements, historical simulation provides insights into how a portfolio might perform under different market conditions.
+
+- **Monte Carlo simulation**: A Monte Carlo simulation is a probabilistic technique that generates multiple possible outcomes based on random sampling of input variables. It helps assess the impact of uncertainty and variability in market factors on portfolio returns and allows for a more comprehensive risk analysis.
+
+- **Stress testing**: Stress testing involves subjecting a portfolio to extreme but plausible market scenarios to evaluate its resilience and potential vulnerabilities. By simulating adverse market conditions such as sharp market downturns or sudden interest rate hikes, stress testing helps identify potential risks and weaknesses in a portfolio's risk management strategy.
+
+- **Sensitivity analysis**: Sensitivity analysis involves assessing how changes in specific market factors or assumptions impact the overall risk profile of a portfolio. By varying input variables such as interest rates, exchange rates, or commodity prices, sensitivity analysis helps quantify the sensitivity of a portfolio to different market risks.
+
+**Mitigating risks**: For each scenario, decide which risk mitigation strategy (or mix) would work best.
+
+Scenario 1: Hedging Market Risk
+Your team expects coffee prices to rise due to poor weather conditions affecting crops. What strategies should you implement?
+
+Scenario 2: Credit Risk with a New Supplier
+You’re considering a contract with a new coffee supplier from a region with a volatile economy. How would you manage the credit risk?
+
+Scenario 3: Operational Risk in Trade Execution
+You’ve noticed an increase in trading errors due to manual processes. What steps should you take to manage this risk?
